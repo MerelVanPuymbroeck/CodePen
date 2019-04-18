@@ -13,8 +13,8 @@ A single project on Codepen is called a ‘pen’. :memo:
 
 Pro's | Contra's 
 --- | --- 
- **Supports** a tons of flavors of HTML, CSS, and JavaScript. |  If you want a private pen u need to pay and upgrading to a Pro account
- You can **add tags** to your pens, which then become searchable. | 2 
+ **Supports** a tons of flavors of HTML, CSS, and JavaScript. |  If you want a private pen u need to pay and upgrading to a Pro account.
+ You can **add tags** to your pens, which then become searchable. | The free version of Codepen has ads requires registration
  **Community** has been a huge part of CodePen since the beginning and you feel that. | 2 
 
 ###### Pro's explaining:
@@ -22,9 +22,9 @@ Pro's | Contra's
 2. Searching tags such as “Loader” and “Form” brings up tons of helpful inspiration. 
 3. Through comments and sharing, people can give and receive constructive criticism, and learn together.
 
-##### Contra's explainig:
-1.
-2.
+###### Contra's explainig:
+1. If u want to make a own private pen u need to pay for a pro version of CodePen otherwise its always public.
+2. In The free version of Codepen are the best tools not available.
 3. 
 
 ## Why did I choose for CodePen?
