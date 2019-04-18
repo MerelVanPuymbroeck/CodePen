@@ -10,7 +10,7 @@ A single project on Codepen is called a ‘pen’. :memo:
 
 > *" We're trying to make CodePen a happy and healthy place for front-end designers and developers and the people looking for > them, while also being a damn fine place to code. " :heart:*
 
-## Why Should you use CodePen?
+## Why should you use CodePen?
 
 Pro's | Contra's 
 --- | --- 
