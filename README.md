@@ -23,12 +23,14 @@ Pro's | Contra's
 3. Through comments and sharing, people can give and receive constructive criticism, and learn together.
 
 ###### Contra's explainig:
-1. If u want to make a own private pen u need to pay for a pro version of CodePen otherwise its always public.
-2. In The free version of Codepen are the best tools not available.
-3. You can't go back in your history about wich codes u used in your project after you closed it. You only can ctrl + z.
+
+- [ ]  If u want to make a own private pen u need to pay for a pro version of CodePen otherwise its always public.
+- [ ]  In The free version of Codepen are the best tools not available.
+- [ ]  You can't go back in your history about wich codes u used in your project after you closed it. You only can ctrl + z.
 
 ## Why did I choose for CodePen?
 
 * I used CodePen in mmy first year of my bachelor degree and I enjoyed it using it. 
 * It's user friendly, it got structure and its not difficult to use. 
 * Also is it verry handy that you immediately see what's your code doing or what is it not doing. 
+
