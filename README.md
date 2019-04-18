@@ -21,3 +21,7 @@ Community has been a huge part of CodePen since the beginning and you feel that.
 1. For example u can use HAML, Markdown, Slim, or even Jade for HTML.
 2. Searching tags such as “Loader” and “Form” brings up tons of helpful inspiration. 
 3. Through comments and sharing, people can give and receive constructive criticism, and learn together.
+
+## Why did I choose for CodePen?
+
+I used CodePEn in mmy first year of my bachelor degree and I enjoyed it using it. It's user friendly, it got structure and its not difficult to use. Also is it verry handy that you immediately see what's your code doing or what is it not doing. 
