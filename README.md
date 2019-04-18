@@ -26,7 +26,7 @@ Pro's | Contra's
 ###### Contra's explainig:
 
 - [ ]  If u want to make a own private pen u need to pay for a pro version of CodePen otherwise its always public.
-- [ ]  In The free version of Codepen are the best tools not available.
+- [ ]  In the free version of CodePen are the best tools not available.
 - [ ]  You can't go back in your history about wich codes u used in your project after you closed it. You only can ctrl + z.
 
 ## Why did I choose for CodePen?
