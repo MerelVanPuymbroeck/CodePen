@@ -31,7 +31,7 @@ Pro's | Contra's
 
 ## Why did I choose for CodePen?
 
-* I used CodePen in mmy first year of my bachelor degree and I enjoyed it using it. 
+* I used CodePen in my first year of my bachelor degree and I enjoyed it using it. 
 * It's user friendly, it got structure and its not difficult to use. 
 * Also is it verry handy that you immediately see what's your code doing or what is it not doing. 
 
