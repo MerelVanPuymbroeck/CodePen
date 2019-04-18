@@ -3,11 +3,11 @@
 
 ## What is CodePen? 
 
->CodePen allows you to write a code in the browser, and see the results of it as you build.  
->It is also a community, where people can share there code and leave comments on others code.  
->A single project on Codepen is called a ‘pen’. :memo:
+CodePen allows you to write a code in the browser, and see the results of it as you build.  
+It is also a community, where people can share there code and leave comments on others code.  
+A single project on Codepen is called a ‘pen’. :memo:
 
-*" We're trying to make CodePen a happy and healthy place for front-end designers and developers and the people looking for them, while also being a damn fine place to code. " :heart:*
+> *" We're trying to make CodePen a happy and healthy place for front-end designers and developers and the people looking for > them, while also being a damn fine place to code. " :heart:*
 
 ## Why Should you use CodePen?
 
