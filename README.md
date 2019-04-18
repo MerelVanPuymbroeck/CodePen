@@ -13,17 +13,22 @@ A single project on Codepen is called a ‘pen’. :memo:
 
 Pro's | Contra's 
 --- | --- 
- **Supports** a tons of flavors of HTML, CSS, and JavaScript. |  
+ **Supports** a tons of flavors of HTML, CSS, and JavaScript. |  If you want a private pen u need to pay and upgrading to a Pro account
  You can **add tags** to your pens, which then become searchable. | 2 
  **Community** has been a huge part of CodePen since the beginning and you feel that. | 2 
 
-###### Pro's explaining
+###### Pro's explaining:
 1. For example u can use HAML, Markdown, Slim, or even Jade for HTML.
 2. Searching tags such as “Loader” and “Form” brings up tons of helpful inspiration. 
 3. Through comments and sharing, people can give and receive constructive criticism, and learn together.
 
+##### Contra's explainig:
+1.
+2.
+3. 
+
 ## Why did I choose for CodePen?
 
-* I used CodePEn in mmy first year of my bachelor degree and I enjoyed it using it. 
+* I used CodePen in mmy first year of my bachelor degree and I enjoyed it using it. 
 * It's user friendly, it got structure and its not difficult to use. 
 * Also is it verry handy that you immediately see what's your code doing or what is it not doing. 
