@@ -35,3 +35,4 @@ Pro's | Contra's
 * It's user friendly, it got structure and its not difficult to use. 
 * Also is it verry handy that you immediately see what's your code doing or what is it not doing. 
 
+![alt text](codepen.jpg)
