@@ -1,5 +1,5 @@
 # CodePen
-[https://codepen.io/](https://codepen.io/)
+[Here is the link where u can find CodePen](https://codepen.io/)
 
 ## What is CodePen? 
 
@@ -13,9 +13,9 @@ A single project on Codepen is called a ‘pen’. :memo:
 
 Pro's | Contra's 
 --- | --- 
-Supports a tons of flavors of HTML, CSS, and JavaScript|  
-You can add tags to your pens, which then become searchable. | 2 
-Community has been a huge part of CodePen since the beginning and you feel that. | 2 
+ **Supports** a tons of flavors of HTML, CSS, and JavaScript. |  
+ You can **add tags** to your pens, which then become searchable. | 2 
+ **Community** has been a huge part of CodePen since the beginning and you feel that. | 2 
 
 ###### Pro's explaining
 1. For example u can use HAML, Markdown, Slim, or even Jade for HTML.
@@ -24,4 +24,6 @@ Community has been a huge part of CodePen since the beginning and you feel that.
 
 ## Why did I choose for CodePen?
 
-I used CodePEn in mmy first year of my bachelor degree and I enjoyed it using it. It's user friendly, it got structure and its not difficult to use. Also is it verry handy that you immediately see what's your code doing or what is it not doing. 
+* I used CodePEn in mmy first year of my bachelor degree and I enjoyed it using it. 
+* It's user friendly, it got structure and its not difficult to use. 
+* Also is it verry handy that you immediately see what's your code doing or what is it not doing. 
