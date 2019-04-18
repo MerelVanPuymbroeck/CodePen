@@ -33,6 +33,6 @@ Pro's | Contra's
 
 * I used CodePen in my first year of my bachelor degree and I enjoyed it using it. 
 * It's user friendly, it got structure and its not difficult to use. 
-* Also is it verry handy that you immediately see what's your code doing or what is it not doing. 
+* Also is it verry handy that you immediately see what your code is doing or what it is not doing. 
 
 ![alt text](codepen.jpg)
