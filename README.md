@@ -35,4 +35,17 @@ Pro's | Contra's
 * It's user friendly, it has structure and it's not difficult to use. 
 * It's handy that you immediately see what your code is doing or what it is not doing. 
 
+```
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title></title>
+    </head>
+    <body>
+        
+    </body>
+</html>
+```
+
 ![alt text](codepen.jpg)
