@@ -35,7 +35,7 @@ Pro's | Contra's
 * It's user friendly, it has structure and it's not difficult to use. 
 * It's handy that you immediately see what your code is doing or what it is not doing. 
 
-```
+``` html 
 <!DOCTYPE html>
 <html>
     <head>
