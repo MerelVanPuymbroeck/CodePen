@@ -19,7 +19,7 @@ Pro's | Con's
  **Community** has been a huge part of CodePen since the beginning and you feel that. | **No** way to check **revision history.**
 
 ###### Pro's explaining:
-1. For example u can use HAML, Markdown, Slim, or even Jade for HTML.
+1. For example you can use HAML, Markdown, Slim, or even Jade for HTML.
 2. Searching tags such as “Loader” and “Form” brings up tons of helpful inspiration. 
 3. Through comments and sharing, people can give and receive constructive criticism, and learn together.
 
