@@ -29,10 +29,10 @@ Pro's | Con's
 - [ ]  In the free version of CodePen are the best tools not available.
 - [ ]  You can't go back in your history about wich codes u used in your project after you closed it. You only can ctrl + z.
 
-## Why did I choose CodePen?
+## Why did we choose CodePen?
 
-* I used CodePen in my first year of my bachelor degree and I enjoyed it using it. 
 * It's user friendly, it got structure and its not difficult to use. 
 * Also is it verry handy that you immediately see what your code is doing or what it is not doing. 
+* It's a bit different then other IDE's cause you make your code in a browser. 
 
 ![alt text](codepen.jpg)
