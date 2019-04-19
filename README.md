@@ -12,7 +12,7 @@ A single project on Codepen is called a ‘pen’. :memo:
 
 ## Why should you use CodePen?
 
-Pro's | Contra's 
+Pro's | Con's 
 --- | --- 
  **Supports** a tons of flavors of HTML, CSS, and JavaScript. |  If you want a private pen u need to **pay** and **upgrading** to a Pro account.a
  You can **add tags** to your pens, which then become searchable. | The free version of Codepen has **ads** and requires **registration.**
@@ -23,13 +23,13 @@ Pro's | Contra's
 2. Searching tags such as “Loader” and “Form” brings up tons of helpful inspiration. 
 3. Through comments and sharing, people can give and receive constructive criticism, and learn together.
 
-###### Contra's explainig:
+###### Con's explainig:
 
 - [ ]  If u want to make a own private pen u need to pay for a pro version of CodePen otherwise its always public.
 - [ ]  In the free version of CodePen are the best tools not available.
 - [ ]  You can't go back in your history about wich codes u used in your project after you closed it. You only can ctrl + z.
 
-## Why did I choose for CodePen?
+## Why did I choose CodePen?
 
 * I used CodePen in my first year of my bachelor degree and I enjoyed it using it. 
 * It's user friendly, it got structure and its not difficult to use. 
